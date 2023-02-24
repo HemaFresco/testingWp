@@ -1,0 +1,127 @@
+.rtcl.builder-content .store-banner .banner {
+  background-size: cover;
+  max-height: initial;
+}
+.rtcl.builder-content .store-banner .banner img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  position: absolute;
+  height: 100%;
+  -o-object-position: bottom;
+     object-position: bottom;
+}
+@media only screen and (max-width: 767px) {
+  .rtcl.builder-content .store-banner .store-name-logo {
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
+  }
+}
+.rtcl.builder-content .store-banner .store-name-logo .store-logo {
+  width: inherit;
+  height: inherit;
+  background: transparent;
+  border-radius: 2px;
+}
+@media only screen and (max-width: 767px) {
+  .rtcl.builder-content .store-banner .store-name-logo .store-logo {
+    padding: 5px;
+    border-radius: 5%;
+  }
+}
+.rtcl.builder-content .store-banner .store-name-logo .store-logo img {
+  padding: 0;
+}
+@media only screen and (max-width: 767px) {
+  .rtcl.builder-content .store-banner .store-name-logo .store-info {
+    align-items: center;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .rtcl.builder-content .store-banner .store-name-logo .store-name h2 {
+    font-size: 20px;
+  }
+}
+.rtcl.builder-content .store-banner .store-info .rtcl-store-cat i,
+.rtcl.builder-content .store-banner .store-info .rtcl-store-cat a {
+  font-size: inherit;
+  text-decoration: none;
+  color: inherit;
+}
+.rtcl.builder-content .store-banner .star-rating {
+  margin-right: 5px;
+  font-size: inherit;
+}
+.rtcl.builder-content .store-banner .reviews-rating-count {
+  font-size: inherit;
+}
+.rtcl.builder-content .rtcl.store-content-wrap {
+  padding: 0;
+}
+.rtcl.builder-content .rtcl.store-content-wrap .store-banner {
+  margin: 0;
+}
+.rtcl.builder-content .store-hours-list .store-hour {
+  display: flex;
+  justify-content: space-between;
+  text-transform: capitalize;
+}
+.rtcl.builder-content .store-hours-list .store-hour .hour-day {
+  flex: 0 0 50%;
+}
+.rtcl.builder-content .store-info-item {
+  display: flex;
+  margin-top: 0;
+  word-break: break-word;
+  word-wrap: break-word;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid #d4ded9;
+}
+.rtcl.builder-content .store-info-item.store-social-media a {
+  display: inline-block;
+  padding: 5px;
+  margin-right: 0;
+  color: #fff;
+  font-weight: 400;
+  transition: all 0.5s ease-out;
+  text-decoration: none;
+}
+.rtcl.builder-content .store-info-item.store-social-media a .rtcl-icon {
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  color: #fff;
+  text-align: center;
+  margin-right: 0 !important;
+  background-color: var(--rtcl-primary-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rtcl.builder-content .store-info-item.store-social-media a .rtcl-icon-facebook {
+  background: #3b5998;
+}
+.rtcl.builder-content .store-info-item.store-social-media a .rtcl-icon-twitter {
+  background: #3a8cec;
+}
+.rtcl.builder-content .store-info-item.store-social-media a .rtcl-icon-youtube {
+  background: #ff0000;
+}
+.rtcl.builder-content .store-info-item.store-social-media a .rtcl-icon-linkedin {
+  background: #1178b3;
+}
+.rtcl.builder-content .store-info-item .fade-anchor {
+  margin-top: 5px;
+}
+
+.rtcl.store-page-by-elementor #store-details-modal #store-details-modal-label {
+  text-align: left;
+  font-size: 20px;
+}
+.rtcl.store-page-by-elementor #store-details-modal .more-item {
+  margin-bottom: 5px;
+}
+
+.rtcl.store-content-wrap .store-information.edit-mode .store-info .store-info-item.store-email #store-email-area {
+  display: block;
+}

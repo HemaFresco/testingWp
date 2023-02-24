@@ -1,0 +1,1323 @@
+# Copyright (C) 2022 rtcl-elementor-builder
+# This file is distributed under the same license as the rtcl-elementor-builder package.
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcl-elementor-builder\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Econdig: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: rtcl-elementor-builder\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../app/Controllers/AdminNotices.php:123
+msgid "and"
+msgstr ""
+
+#: ../app/Controllers/ElementorController.php:96
+msgid "Single Listing"
+msgstr ""
+
+#: ../app/Controllers/ElementorController.php:102, ../app/Widgets/ListingArchive.php:38
+msgid "Archive Listing"
+msgstr ""
+
+#: ../app/Controllers/ElementorController.php:108
+msgid "Store Single"
+msgstr ""
+
+#: ../app/Traits/ELTempleateBuilderTraits.php:47
+msgid "Single"
+msgstr ""
+
+#: ../app/Traits/ELTempleateBuilderTraits.php:48
+msgid "Archive"
+msgstr ""
+
+#: ../app/Traits/ELTempleateBuilderTraits.php:51
+msgid "Store single"
+msgstr ""
+
+#: ../app/Traits/Singleton.php:50, ../app/Traits/Singleton.php:57
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../app/Widgets/ListingActions.php:39
+msgid "Actions & Social Share"
+msgstr ""
+
+#: ../app/Widgets/ListingBadge.php:34
+msgid "Listing Badge"
+msgstr ""
+
+#: ../app/Widgets/ListingBusinessHours.php:40
+msgid "Business Hours"
+msgstr ""
+
+#: ../app/Widgets/ListingCustomFields.php:34
+msgid "Custom Fields"
+msgstr ""
+
+#: ../app/Widgets/ListingDescription.php:34
+msgid "Listing Description"
+msgstr ""
+
+#: ../app/Widgets/ListingImage.php:36
+msgid "Listing Image"
+msgstr ""
+
+#: ../app/Widgets/ListingMap.php:39
+msgid "Listing Map"
+msgstr ""
+
+#: ../app/Widgets/ListingMeta.php:34
+msgid "Listing Meta"
+msgstr ""
+
+#: ../app/Widgets/ListingPageHeader.php:39
+msgid "Page Header"
+msgstr ""
+
+#: ../app/Widgets/ListingPrice.php:35
+msgid "Listing Price"
+msgstr ""
+
+#: ../app/Widgets/ListingReview.php:34
+msgid "Listing Review"
+msgstr ""
+
+#: ../app/Widgets/ListingSellerInformation.php:40
+msgid "Seller Information"
+msgstr ""
+
+#: ../app/Widgets/ListingSocialProfiles.php:34
+msgid "Social Profiles"
+msgstr ""
+
+#: ../app/Widgets/ListingTitle.php:39
+msgid "Listing Title"
+msgstr ""
+
+#: ../app/Widgets/ListingVideo.php:34
+msgid "Listing Video"
+msgstr ""
+
+#: ../app/Widgets/RelatedListings.php:38
+msgid "Related Listings"
+msgstr ""
+
+#: ../app/Widgets/StoreBanner.php:26
+msgid "Store Banner"
+msgstr ""
+
+#: ../app/Widgets/StoreContactInfo.php:28
+msgid "Store Contact Info"
+msgstr ""
+
+#: ../app/Widgets/StoreDescription.php:26
+msgid "Store Description"
+msgstr ""
+
+#: ../app/Widgets/StoreListings.php:34
+msgid "Store Listings"
+msgstr ""
+
+#: ../app/Widgets/StoreName.php:26
+msgid "Store Name"
+msgstr ""
+
+#: ../app/Widgets/StoreOpeningHours.php:26
+msgid "Store Opening Hours"
+msgstr ""
+
+#: ../app/Widgets/StoreSlogan.php:26
+msgid "Store Slogan"
+msgstr ""
+
+#: ../app/Controllers/Ajax/ELProAjax.php:44
+msgid "Template Settings"
+msgstr ""
+
+#: ../app/Controllers/Ajax/ELProAjax.php:49
+msgid "Session Expired..."
+msgstr ""
+
+#: ../app/Controllers/Ajax/ELProAjax.php:79, ../app/Controllers/Ajax/ELProAjax.php:80
+msgid "Template name"
+msgstr ""
+
+#: ../app/Controllers/Ajax/ELProAjax.php:81
+msgid "This field is required"
+msgstr ""
+
+#: ../app/Controllers/Ajax/ELProAjax.php:84
+msgid "Template Type"
+msgstr ""
+
+#: ../app/Controllers/Ajax/ELProAjax.php:96
+msgid "Set Default Template"
+msgstr ""
+
+#: ../app/Controllers/Ajax/ELProAjax.php:102
+msgid "Save"
+msgstr ""
+
+#: ../app/Controllers/Ajax/ELProAjax.php:105
+msgid "Edit with elementor"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:158
+msgctxt "Post Type General Name"
+msgid "Template Builder"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:159
+msgctxt "Post Type Singular Name"
+msgid "Template Builder"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:160, ../app/Controllers/Builder/TemplateBuilder.php:161, ../app/Controllers/Builder/TemplateBuilder.php:165, ../app/Controllers/Builder/TemplateBuilder.php:188
+msgid "Template Builder"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:162
+msgid "Template Archives"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:163
+msgid "Template Attributes"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:164
+msgid "Parent Item:"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:166
+msgid "Add New Template"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:167
+msgid "Add New"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:168
+msgid "New Template"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:169
+msgid "Edit Template"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:170
+msgid "Update Template"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:171
+msgid "View Template"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:172
+msgid "View Templates"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:173
+msgid "Search Templates"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:174
+msgid "Not found"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:175
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:176
+msgid "Featured Image"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:177
+msgid "Set featured image"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:178
+msgid "Remove featured image"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:179
+msgid "Use as featured image"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:180
+msgid "Insert into Template"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:181
+msgid "Uploaded to this Template"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:182
+msgid "Templates list"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:183
+msgid "Templates list navigation"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:184
+msgid "Filter from list"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:189
+msgid "Classified listing Template"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:238
+msgid "All"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:239
+msgid "Defaults"
+msgstr ""
+
+#: ../app/Controllers/Builder/TemplateBuilder.php:301
+msgid "Edit with Elementor"
+msgstr ""
+
+#: ../app/Controllers/Hooks/ActionHooks.php:42
+msgid "See all timings"
+msgstr ""
+
+#: ../app/Controllers/Hooks/FilterHooks.php:58
+msgid "Elementor Builder plugin license key"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:64
+msgid "Content Visibility"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:69
+msgid "Show Favourites"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:70, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:79, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:88, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:97, ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:91, ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:51, ../app/Widgets/WidgetSettings/ListingImageSettings.php:65, ../app/Widgets/WidgetSettings/ListingImageSettings.php:74, ../app/Widgets/WidgetSettings/ListingImageSettings.php:83, ../app/Widgets/WidgetSettings/ListingImageSettings.php:92, ../app/Widgets/WidgetSettings/ListingImageSettings.php:101, ../app/Widgets/WidgetSettings/ListingImageSettings.php:110, ../app/Widgets/WidgetSettings/ListingImageSettings.php:119, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:111, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:120, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:129, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:138, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:147, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:156, ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:68, ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:77, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:69, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:89, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:107, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:124, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:134
+msgid "On"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:71, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:80, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:89, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:98, ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:92, ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:52, ../app/Widgets/WidgetSettings/ListingImageSettings.php:66, ../app/Widgets/WidgetSettings/ListingImageSettings.php:75, ../app/Widgets/WidgetSettings/ListingImageSettings.php:84, ../app/Widgets/WidgetSettings/ListingImageSettings.php:93, ../app/Widgets/WidgetSettings/ListingImageSettings.php:102, ../app/Widgets/WidgetSettings/ListingImageSettings.php:111, ../app/Widgets/WidgetSettings/ListingImageSettings.php:120, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:112, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:121, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:130, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:139, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:148, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:157, ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:69, ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:78, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:70, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:90, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:108, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:125, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:135
+msgid "Off"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:78
+msgid "Show Report Abuse"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:87
+msgid "Show Social Share"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:96
+msgid "Inline Style"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:121
+msgid "Action"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:127, ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:128, ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:131, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:69, ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:189, ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:234, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:127, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:196, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:306, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:418, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:223, ../app/Widgets/WidgetSettings/ListingTitleSettings.php:119, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:124, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:259, ../app/Widgets/WidgetSettings/StoreDescriptionSettings.php:53, ../app/Widgets/WidgetSettings/StoreOpeningHoursSettings.php:73
+msgid "Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:133, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:217, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:242, ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:101, ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:137, ../app/Widgets/WidgetSettings/ListingMetaSettings.php:76, ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:195, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:142, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:202, ../app/Widgets/WidgetSettings/ListingTitleSettings.php:125, ../app/Widgets/WidgetSettings/StoreDescriptionSettings.php:59, ../app/Widgets/WidgetSettings/StoreOpeningHoursSettings.php:79
+msgid "Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:142
+msgid "Alignment"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:152, ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:168, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:201, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:451, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:166, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:302, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:334, ../app/Widgets/WidgetSettings/StoreOpeningHoursSettings.php:102
+msgid "Border"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:176, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:274, ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:201, ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:192, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:252, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:294, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:406, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:608, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:190, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:129
+msgid "Padding"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:202
+msgid "Social"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:212, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:317, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:429, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:282
+msgid "Normal"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:225, ../app/Widgets/WidgetSettings/ListingActionsSettings.php:250
+msgid "Backgound Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:237, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:349, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:460, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:314
+msgid "Hover"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:264, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:262, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:618, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:139
+msgid "Margin"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:285
+msgid "Social Size"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:294
+msgid "Font Size"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingActionsSettings.php:303
+msgid "Icon Gap"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingArchiveSettings.php:88
+msgid "Layout"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingArchiveSettings.php:95
+msgid "Default View"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingArchiveSettings.php:110
+msgid "List Style"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingArchiveSettings.php:181
+msgid "Grid Style"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingArchiveSettings.php:251
+msgid "Grid Column"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:60, ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:45, ../app/Widgets/WidgetSettings/ListingImageSettings.php:59, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:62, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:63, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:56, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:49, ../app/Widgets/WidgetSettings/RelatedListingsSettings.php:198, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:108, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:239, ../app/Widgets/WidgetSettings/StoreNameSettings.php:45
+msgid "General"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:65
+msgid "Date Formate"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:67
+msgid "12 Hours"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:68
+msgid "24 Hours"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:76
+msgid "Show Open status?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:77
+msgid "Yes"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:78
+msgid "No"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:80
+msgid "Switch to Show Open status"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:85
+msgid "Open Status Text"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:91
+msgid "Close Status Text"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:113
+msgid "General Style"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:120
+msgid "Open Status"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:135
+msgid "Open status text Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:144
+msgid "Close status text Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:156
+msgid "Table"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:164, ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:140, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:138, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:174
+msgid "Label Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:171, ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:147, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:145
+msgid "Data Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:177, ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:153, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:151
+msgid "Label Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:185, ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:161, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:159
+msgid "Data Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingBusinessHoursSettings.php:193, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:338, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:370, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:481
+msgid "Border Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:40
+msgid "All Group"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:74, ../app/Widgets/WidgetSettings/ListingMapSettings.php:43
+msgid "General Settings"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:79, ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:134, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:67, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:132, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:168, ../app/Widgets/WidgetSettings/RelatedListingsSettings.php:228
+msgid "Style"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:81, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:106
+msgid "Style 1"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:82, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:107
+msgid "Style 2"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:90
+msgid "Label and Value in New Line?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:99
+msgid "Custom Field Group's"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingCustomFieldsSettings.php:109
+msgid "Column Gap"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:50, ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:87
+msgid "Drop Cap"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:125, ../app/Widgets/WidgetSettings/StoreDescriptionSettings.php:46
+msgid "Description"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:145
+msgid "Paragraph Speace"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:156, ../app/Widgets/WidgetSettings/ListingTitleSettings.php:78
+msgid "Text Alignment"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingDescriptionSettings.php:159
+msgid "Justified"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:64
+msgid "Enable slider"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:73
+msgid "Show Thumbnail"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:82
+msgid "Show Video"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:91
+msgid "Show Arrow"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:100
+msgid "Show Lightbox Icon"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:109
+msgid "Enable Image Zoom"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:118
+msgid "Show Badge"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:155
+msgid "Zoom"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:160, ../app/Widgets/WidgetSettings/ListingImageSettings.php:213
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:168, ../app/Widgets/WidgetSettings/ListingImageSettings.php:221
+msgid "Icon Hover Background"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:176, ../app/Widgets/WidgetSettings/ListingImageSettings.php:229
+msgid "Icon color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:184, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:188
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:208
+msgid "Carousel Arrow"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingImageSettings.php:237
+msgid "Icon Hover color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMapSettings.php:48
+msgid "Zoom label"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:62
+msgid "Meta"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:85
+msgid "Meta Icon Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:105, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:52, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:52
+msgid "Content Visibility "
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:110
+msgid "Show Types"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:114
+msgid "Show or Hide Types. Default: On"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:119
+msgid "Show date"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:123
+msgid "Show or Hide date. Default: On"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:128
+msgid "Show User"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:132
+msgid "Show or Hide user. Default: On"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:137, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:75
+msgid "Show Category"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:141
+msgid "Show or Hide Category. Default: On"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:146, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:80
+msgid "Show Location"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:150
+msgid "Show or Hide Location. Default: On"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:155
+msgid "Show Views"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingMetaSettings.php:159
+msgid "Show or Hide Views. Default: On"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:62
+msgid "Header Settings"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:67
+msgid "Show Title"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:71
+msgid "Show or Hide Title. Default: On"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:76
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:80
+msgid "Show or Hide Breadcrumb. Default: On"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:85
+msgid "Breadcrumb Position"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:87
+msgid "Bottom"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:88
+msgid "Top"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:89
+msgid "Right"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:115
+msgid "Title HTML Tag"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:134
+msgid "Title Alignment"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:146
+msgid "Breadcrumb Alignment"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:172, ../app/Widgets/WidgetSettings/ListingTitleSettings.php:103
+msgid "Title"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:177, ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:222, ../app/Widgets/WidgetSettings/ListingTitleSettings.php:107
+msgid "Spacing"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:217
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:240, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:330, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:362, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:442, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:473, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:229, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:295
+msgid "Text Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:248
+msgid "Link Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPageHeaderSettings.php:256
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPriceSettings.php:75
+msgid "Show Price Unit"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPriceSettings.php:76, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:85, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:63, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:72, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:82, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:91, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:100, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:109, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:56, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:91, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:99, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:107, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:115, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:123, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:131, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:139, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:59, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:68, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:77, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:86, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:59, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:68, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:77, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:86, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:95
+msgid "Hide"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPriceSettings.php:77, ../app/Widgets/WidgetSettings/ListingPriceSettings.php:86, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:62, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:71, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:81, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:90, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:99, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:108, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:55, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:90, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:98, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:106, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:114, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:122, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:130, ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:138, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:58, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:67, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:76, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:85, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:58, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:67, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:76, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:85, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:94
+msgid "Show"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPriceSettings.php:84
+msgid "Show Price Type"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPriceSettings.php:121
+msgid "Price"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPriceSettings.php:133, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:322, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:354, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:434, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:465
+msgid "Background Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPriceSettings.php:151
+msgid "Price Alignment"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingPriceSettings.php:175
+msgid "Price Label"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:68, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:603
+msgid "Comment List"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:77
+msgid "Comment List Style"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:88
+msgid "Review Section Title "
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:98
+msgid "Review Title Text"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:99
+msgid "Reviews"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:106
+msgid "Leave Review Button"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:116
+msgid "Leave Review Button Text"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:117, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:143
+msgid "Leave Review"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:123
+msgid "Review Meta"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:133
+msgid "Comment Form"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:142
+msgid "Comment form Title Text"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:165
+msgid "Commet List Header Section"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:171
+msgid "Section Title Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:177
+msgid "Title Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:186
+msgid "Average Rating Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:192
+msgid "Average Rating Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:240
+msgid "General Style "
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:244, ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:245, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:287
+msgid "Background"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:289
+msgid "Header Button"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:401
+msgid "Form Button"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:512
+msgid "Form"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:518
+msgid "Fields Background"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:527, ../app/Widgets/WidgetSettings/ListingReviewSettings.php:646
+msgid "Title Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:533
+msgid "Form Title Gap"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:543
+msgid "Form Label Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:549
+msgid "Field Height"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:564
+msgid "Comment Field Height"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:579
+msgid "Fields Border Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:630
+msgid "Author Name Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:636
+msgid "Rating Gap"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingReviewSettings.php:652
+msgid "Title Gap"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:61
+msgid "Show Author"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:70
+msgid "Show Author Image"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:89
+msgid "Show Contact Number"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:98
+msgid "Show Contact Form"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:107
+msgid "Show Seller Website"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:217, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:253
+msgid "Button"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:237, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:327
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:253, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:319
+msgid "Hover Background"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSellerInfoSettings.php:260, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:265
+msgid "Button Padding"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:54
+msgid "Show Label?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:62
+msgid "Label Text"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:63
+msgid "Social Profiles:"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:84
+msgid "Icon Visibility "
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:89
+msgid "Show Facebook?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:97
+msgid "Show Twitter?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:105
+msgid "Show Youtube?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:113
+msgid "Show Instagram?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:121
+msgid "Show LinkedIn?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:129
+msgid "Show Pinterest?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:137
+msgid "Show Reddit?"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:180
+msgid "Icon Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:196
+msgid "Icon Size"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:205
+msgid "Icon Speacing"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingSocialProfilesSettings.php:215
+msgid "Icon Alignment"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingTitleSettings.php:55
+msgid "Title Settings"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingTitleSettings.php:60
+msgid "HTML Tag"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingVideoSettings.php:45
+msgid "Video"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingVideoSettings.php:50
+msgid "Width"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/ListingVideoSettings.php:73
+msgid "Height"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/RelatedListingsSettings.php:213
+msgid "Same Category"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/RelatedListingsSettings.php:214
+msgid "Same Location"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/RelatedListingsSettings.php:215
+msgid "Same Type"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/RelatedListingsSettings.php:216
+msgid "Same Author"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/RelatedListingsSettings.php:221
+msgid "Default value: Same Category "
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/RelatedListingsSettings.php:248
+msgid "Image Size"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:57
+msgid "Show Store Logo"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:61
+msgid "Switch to Show Store Logo"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:66
+msgid "Show Store Name"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:70
+msgid "Switch to Show Store Name"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:79
+msgid "Switch to Show Category"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:84
+msgid "Show Rating"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:88
+msgid "Switch to Show Rating"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:113
+msgid "Banner Height (px)"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:142
+msgid "Banner Image Width (%)"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:185, ../app/Widgets/WidgetSettings/StoreBannerSettings.php:317
+msgid "Logo"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:190
+msgid "logo Wrapper Height (px)"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:207
+msgid "logo wrapper wight (px)"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:245, ../app/Widgets/WidgetSettings/StoreNameSettings.php:51
+msgid "Name Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:251, ../app/Widgets/WidgetSettings/StoreNameSettings.php:57
+msgid "Name Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:260
+msgid "Category Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:267
+msgid "Category Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:276
+msgid "Category icon Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:286
+msgid "Review Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:293
+msgid "Review count Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:322
+msgid "Wrapper background"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:329
+msgid "Logo Border"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreBannerSettings.php:354
+msgid "Logo Image Width (px)"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:57
+msgid "Show Status"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:61
+msgid "Switch to Show/Hide Store Status"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:66
+msgid "Show Address"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:70
+msgid "Switch to Show/Hide Store Address"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:75
+msgid "Show Phone"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:79
+msgid "Switch to Show/Hide Store Phone"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:84
+msgid "Show Social Media"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:88, ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:97
+msgid "Switch to Show/Hide Store Social Media"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:93
+msgid "Show Store Email"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:118
+msgid "Contact"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:150
+msgid "Social Icon Width (px)"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:179
+msgid "Social Icon font size (px)"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreContactInfoSettings.php:208
+msgid "Form Field Height (px)"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreListingsSettings.php:46, ../app/Widgets/WidgetSettings/StoreSloganSettings.php:46
+msgid "Slogan"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreListingsSettings.php:53, ../app/Widgets/WidgetSettings/StoreSloganSettings.php:53
+msgid "Slogan Typography"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreListingsSettings.php:59, ../app/Widgets/WidgetSettings/StoreSloganSettings.php:59
+msgid "Slogan Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreOpeningHoursSettings.php:47
+msgid "Opening Hours"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreOpeningHoursSettings.php:51
+msgid "Day's Padding"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreOpeningHoursSettings.php:61
+msgid "Day's Margin"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreOpeningHoursSettings.php:87
+msgid "Today's Color"
+msgstr ""
+
+#: ../app/Widgets/WidgetSettings/StoreOpeningHoursSettings.php:95
+msgid "Off Day Color"
+msgstr ""
+
+#: ../templates/elementor/single/image.php:34
+msgid "Sold Out"
+msgstr ""
+
+#: ../templates/elementor/single/meta.php:31
+msgid "by "
+msgstr ""
+
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#. translators: %s: views count
+#: ../templates/elementor/single/meta.php:53, ../templates/elementor/listing-archive/grid/style-1.php:149, ../templates/elementor/listing-archive/grid/style-2.php:162, ../templates/elementor/listing-archive/grid/style-3.php:104, ../templates/elementor/listing-archive/grid/style-4.php:164, ../templates/elementor/listing-archive/grid/style-5.php:103, ../templates/elementor/listing-archive/list/style-1.php:159, ../templates/elementor/listing-archive/list/style-2.php:156, ../templates/elementor/listing-archive/list/style-3.php:153, ../templates/elementor/listing-archive/list/style-4.php:90, ../templates/elementor/listing-archive/list/style-5.php:90, ../templates/elementor/single/related-listing/grid/style-1.php:146, ../templates/elementor/single/related-listing/grid/style-3.php:107, ../templates/elementor/single/related-listing/grid/style-4.php:162, ../templates/elementor/single/related-listing/grid/style-5.php:104
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/elementor/single/review.php:110
+msgid "There are no reviews yet."
+msgstr ""
+
+#. translators: %s: Listing Litle
+#: ../templates/elementor/single/review.php:124
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s: Autor Name
+#: ../templates/elementor/single/review.php:126
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:131
+msgid "Name"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:133
+msgid "Email"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:136
+msgid "Submit"
+msgstr ""
+
+#. translators: %s: Account page url
+#: ../templates/elementor/single/review.php:144
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: ../templates/elementor/single/review.php:147
+msgid "Review title"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:149
+msgid "Your rating"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:150
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:151
+msgid "Perfect"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:152
+msgid "Good"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:153
+msgid "Average"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:154
+msgid "Not that bad"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:155
+msgid "Very poor"
+msgstr ""
+
+#: ../templates/elementor/single/review.php:159
+msgid "Your review"
+msgstr ""
+
+#: ../templates/elementor/store-single/details-modal.php:37
+msgid "Open Hours"
+msgstr ""
+
+#: ../templates/elementor/store-single/details-modal.php:70, ../templates/elementor/store-single/opening.php:50
+msgid "Always Open"
+msgstr ""
+
+#: ../templates/elementor/store-single/details-modal.php:67, ../templates/elementor/store-single/opening.php:47
+msgid "Permanently Close"
+msgstr ""
+
+#: ../templates/elementor/store-single/details-modal.php:61, ../templates/elementor/store-single/opening.php:41
+msgid "Closed"
+msgstr ""
+
+#: ../templates/elementor/listing-archive/grid/style-1.php:56, ../templates/elementor/listing-archive/grid/style-2.php:56, ../templates/elementor/listing-archive/grid/style-3.php:184, ../templates/elementor/listing-archive/grid/style-4.php:56, ../templates/elementor/listing-archive/grid/style-5.php:179, ../templates/elementor/listing-archive/list/style-1.php:62, ../templates/elementor/listing-archive/list/style-1.php:64, ../templates/elementor/listing-archive/list/style-2.php:59, ../templates/elementor/listing-archive/list/style-3.php:56, ../templates/elementor/listing-archive/list/style-4.php:161, ../templates/elementor/listing-archive/list/style-5.php:156, ../templates/elementor/single/related-listing/grid/style-1.php:50, ../templates/elementor/single/related-listing/grid/style-2.php:49, ../templates/elementor/single/related-listing/grid/style-3.php:188, ../templates/elementor/single/related-listing/grid/style-4.php:51, ../templates/elementor/single/related-listing/grid/style-5.php:179
+msgid "Quick View"
+msgstr ""
+
+#: ../templates/elementor/listing-archive/grid/style-1.php:80, ../templates/elementor/listing-archive/grid/style-2.php:80, ../templates/elementor/listing-archive/grid/style-3.php:210, ../templates/elementor/listing-archive/grid/style-4.php:80, ../templates/elementor/listing-archive/grid/style-5.php:201, ../templates/elementor/listing-archive/list/style-1.php:88, ../templates/elementor/listing-archive/list/style-1.php:90, ../templates/elementor/listing-archive/list/style-2.php:85, ../templates/elementor/listing-archive/list/style-3.php:82, ../templates/elementor/listing-archive/list/style-4.php:180, ../templates/elementor/listing-archive/list/style-5.php:175, ../templates/elementor/single/related-listing/grid/style-1.php:74, ../templates/elementor/single/related-listing/grid/style-2.php:74, ../templates/elementor/single/related-listing/grid/style-3.php:213, ../templates/elementor/single/related-listing/grid/style-4.php:76, ../templates/elementor/single/related-listing/grid/style-5.php:201
+msgid "Compare"
+msgstr ""
+
+#: ../templates/elementor/listing-archive/grid/style-3.php:159, ../templates/elementor/listing-archive/list/style-4.php:145, ../templates/elementor/listing-archive/list/style-5.php:141, ../templates/elementor/single/related-listing/grid/style-3.php:164
+msgid "Show Phone No"
+msgstr ""
+
+#: ../templates/elementor/listing-archive/list/style-1.php:207, ../templates/elementor/listing-archive/list/style-2.php:205
+msgid "Details"
+msgstr ""
